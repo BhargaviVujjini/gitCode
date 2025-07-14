@@ -7,5 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'gitCode';
+  message = 'Hello, World!';
   anirudh = 'anirudh';
 }
